@@ -7,7 +7,7 @@ The public repository holding the source code and data for the 2018 paper "Multi
 - Our source code in `/notebooks`
 
 ## Requirements
-- Python 3
+- Python 3.6
 - Jupyter Notebook
 - pip
 
