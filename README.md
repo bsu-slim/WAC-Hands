@@ -24,5 +24,5 @@ The public repository holding the source code and data for the 2018 paper
 3. Done!
 
 ## Usage
-1. Start jupyter notebooks by going into the `notebook` folder and entering `jupyter notebooks`
+1. Start Jupyter Notebook by going into the `notebook` folder and entering `jupyter notebook`
 2. Explore the code and the data. Feel free to make any changes
