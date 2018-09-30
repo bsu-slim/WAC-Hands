@@ -1,5 +1,6 @@
 # WAC Hands
-The public repository holding the source code and data for the 2018 paper "Multimodal Visual and Simulated Muscle Activations for Grounded Semantics of Hand-related Descriptions"
+The public repository holding the source code and data for the 2018 paper 
+[Multimodal Visual and Simulated Muscle Activations for Grounded Semantics of Hand-related Descriptions](https://github.com/danielemoro/WAC-Hands/blob/master/embodied-sem-semdial.pdf)
 
 ## What's included?
 - Our paper, `Multimodal Visual and Simulated Muscle Activations for Grounded Semantics of Hand-related Descriptions`
@@ -7,7 +8,7 @@ The public repository holding the source code and data for the 2018 paper "Multi
 - Our source code in `/notebooks`
 
 ## Requirements
-- Python 3
+- Python 3.6
 - Jupyter Notebook
 - pip
 
