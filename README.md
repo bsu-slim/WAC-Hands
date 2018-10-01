@@ -1,5 +1,5 @@
 # WAC Hands
-The public repository holding the source code and data for the 2018 paper 
+The public repository holding the source code and data for the 2018 SemDial paper 
 [Multimodal Visual and Simulated Muscle Activations for Grounded Semantics of Hand-related Descriptions](https://github.com/danielemoro/WAC-Hands/blob/master/embodied-sem-semdial.pdf)
 
 ## What's included?
